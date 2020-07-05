@@ -1,107 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Techie Bootstrap Template - Index</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="<?php echo base_url();?>assets/img/favicon.png" rel="icon">
-  <link href="<?php echo base_url();?>assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="<?php echo base_url();?>assets/template/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="<?php echo base_url();?>assets/template/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="<?php echo base_url();?>assets/template/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="<?php echo base_url();?>assets/template/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="<?php echo base_url();?>assets/template/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="<?php echo base_url();?>assets/template/vendor/aos/aos.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="<?php echo base_url();?>assets/template/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Techie - v2.0.0
-  * Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
-
-<body>
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top ">
-    <div class="container-fluid">
-
-      <div class="row justify-content-center">
-        <div class="col-xl-9 d-flex align-items-center">
-          <h1 class="logo mr-auto"><a href="index.html">KENDARI CODING</a></h1>
-          <!-- Uncomment below if you prefer to use an image logo -->
-          <!-- <a href="index.html" class="logo mr-auto"><img src="<?php echo base_url(); ?>assets/template/img/logo.png" alt="" class="img-fluid"></a>-->
-
-          <nav class="nav-menu d-none d-lg-block">
-            <ul>
-              <li class="active"><a href="index.html">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#services">Services</a></li>
-              <li><a href="#portfolio">Portfolio</a></li>
-              <li><a href="#team">Team</a></li>
-              <li class="drop-down"><a href="">Drop Down</a>
-                <ul>
-                  <li><a href="#">Drop Down 1</a></li>
-                  <li class="drop-down"><a href="#">Deep Drop Down</a>
-                    <ul>
-                      <li><a href="#">Deep Drop Down 1</a></li>
-                      <li><a href="#">Deep Drop Down 2</a></li>
-                      <li><a href="#">Deep Drop Down 3</a></li>
-                      <li><a href="#">Deep Drop Down 4</a></li>
-                      <li><a href="#">Deep Drop Down 5</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="#">Drop Down 2</a></li>
-                  <li><a href="#">Drop Down 3</a></li>
-                  <li><a href="#">Drop Down 4</a></li>
-                </ul>
-              </li>
-              <li><a href="#contact">Contact</a></li>
-
-            </ul>
-          </nav><!-- .nav-menu -->
-
-          <a href="#about" class="get-started-btn scrollto">Get Started</a>
-        </div>
-      </div>
-
-    </div>
-  </header><!-- End Header -->
-
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
-
-    <div class="container-fluid" data-aos="fade-up">
-      <div class="row justify-content-center">
-        <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1>Bettter Digital Experience With Techie</h1>
-          <h2>We are team of talanted designers making websites with Bootstrap</h2>
-          <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
-        </div>
-        <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
-          <img src="<?php echo base_url(); ?>assets/template/img/hero-img.png" class="img-fluid animated" alt="">
-        </div>
-      </div>
-    </div>
-
-  </section><!-- End Hero -->
-
-  <main id="main">
+ <main id="main">
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
@@ -112,17 +9,20 @@
             <img src="<?php echo base_url(); ?>assets/template/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3>Voluptatem dignissimos provident quasi corporis</h3>
+            <h3>Katalog Kelas</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              " Barang siapa tidak mau merasakan pahitnya belajar, ia akan merasakan hinanya kebodohan sepanjang hidupnya"
+              <br>
+              --Imam Syafi'i rahimahullah--
             </p>
             <ul>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="icofont-check-circled"></i>Tersedia Kelas <b>GRATIS</b> dan berbayar</li>
+              <li><i class="icofont-check-circled"></i>Tersedia Kelas Offline di wilayah kota Kendari dan sekitarnya</li>
+              <li><i class="icofont-check-circled"></i>Di bimbing langsung oleh tenaga pengajar yang sudah berpengalaman di bidangnya dan sudah sering menangani proyek tentang pengembangan Aplikasi web dan mobile</li>
+              <li><i class="icofont-check-circled"></i>Bisa belajar di mana saja dan kapan saja dengan waktu yang fleksibel</li>
+              <li><i class="icofont-check-circled"></i>Berkesempatan untuk gabung dalam proyek yang di akusisi oleh kendari coding dan technoreative</li>
             </ul>
-            <a href="#" class="read-more">Read More <i class="icofont-long-arrow-right"></i></a>
+            <a href="#" class="read-more">Lihat Katalog Kelas<i class="icofont-long-arrow-right"></i></a>
           </div>
         </div>
 
@@ -136,23 +36,23 @@
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">232</span>
-            <p>Clients</p>
+            <span data-toggle="counter-up">28</span>
+            <p>Member Kelas</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">521</span>
-            <p>Projects</p>
+            <span data-toggle="counter-up">20</span>
+            <p>Materi Kelas</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">1,463</span>
-            <p>Hours Of Support</p>
+            <span data-toggle="counter-up">6</span>
+            <p>Team Pengajar</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">15</span>
-            <p>Hard Workers</p>
+            <p>Hubungi Kami</p>
           </div>
 
         </div>
@@ -165,8 +65,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Layanan Kami</h2>
+          <p>Adapun layanan kami adalah kelas <b>GRATIS</b> dan berbayar dimana kami mengajarkan segala hal terkait pemrograman web dan mobile, kami juga menyediakan channel Youtube untuk kelas gratis kami yang bisa kalian akses kapan saja dan dimana saja. Selain itu kami juga menerima jasa pembuatan dan pengembangan Aplikasi Web dan Mobile serta jasa IT lainnya yang bekerjasama langsung dengan perusahaan IT partner kami yaitu <b>technocreative.id</b></p>
         </div>
 
         <div class="row">
@@ -178,8 +78,8 @@
                 </svg>
                 <i class="bx bxl-dribbble"></i>
               </div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Kelas Online Gratis</a></h4>
+              <p>Seputar pemrograman web dan mobile untuk pemula</p>
             </div>
           </div>
 
@@ -191,8 +91,8 @@
                 </svg>
                 <i class="bx bx-file"></i>
               </div>
-              <h4><a href="">Sed Perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Kelas Online / Offline Berbayar</a></h4>
+              <p>Membahas mengenai cara merancang dan membuat aplikasi web dan mobile dengan studi kasus proyek tersedia dalam kelas online dan offline (tatap muka)</p>
             </div>
           </div>
 
@@ -204,8 +104,8 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Jasa Design Website dan Mobile</a></h4>
+              <p>Menerima jasa desain aplikasi web dan mobile untuk membantu dalam pengembangan aplikasi yang sementara dibuat</p>
             </div>
           </div>
 
@@ -217,8 +117,8 @@
                 </svg>
                 <i class="bx bx-layer"></i>
               </div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Jasa Pembuatan Website</a></h4>
+              <p>Menerima jasa pembuatan website untuk sekolah, perkantoran atau sejenisnya</p>
             </div>
           </div>
 
@@ -230,8 +130,8 @@
                 </svg>
                 <i class="bx bx-slideshow"></i>
               </div>
-              <h4><a href="">Dele Cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Jasa Pembuatan aplikasi berbasis web dan mobile</a></h4>
+              <p>Menerima jasa pembuatan aplikasi web dan mobile sesuai keinginan</p>
             </div>
           </div>
 
@@ -243,8 +143,8 @@
                 </svg>
                 <i class="bx bx-arch"></i>
               </div>
-              <h4><a href="">Divera Don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href="">Jasa IT Lainnya</a></h4>
+              <p>Menerima jasa pemasangan CCTV, Jaringan Network, Kerjasama perbaikan peralatan IT perkantoran seperti komputer - printer dan peralatan IT lainnya</p>
             </div>
           </div>
 
@@ -742,103 +642,4 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Techie</h3>
-            <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
-            </p>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
-
-      <div class="copyright-wrap d-md-flex py-4">
-        <div class="mr-md-auto text-center text-md-left">
-          <div class="copyright">
-            &copy; Copyright <strong><span>Techie</span></strong>. All Rights Reserved
-          </div>
-          <div class="credits">
-            <!-- All the links in the footer should remain intact. -->
-            <!-- You can delete the links only if you purchased the pro version. -->
-            <!-- Licensing information: https://bootstrapmade.com/license/ -->
-            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/techie-free-skin-bootstrap-3/ -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-          </div>
-        </div>
-        <div class="social-links text-center text-md-right pt-3 pt-md-0">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        </div>
-      </div>
-
-    </div>
-  </footer><!-- End Footer -->
-
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-  <div id="preloader"></div>
-
-  <!-- Vendor JS Files -->
-  <script src="<?php echo base_url();?>assets/template/vendor/jquery/jquery.min.js"></script>
-  <script src="<?php echo base_url();?>assets/template/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="<?php echo base_url();?>assets/template/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="<?php echo base_url();?>assets/template/vendor/php-email-form/validate.js"></script>
-  <script src="<?php echo base_url();?>assets/template/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="<?php echo base_url();?>assets/template/vendor/counterup/counterup.min.js"></script>
-  <script src="<?php echo base_url();?>assets/template/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="<?php echo base_url();?>assets/template/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="<?php echo base_url();?>assets/template/vendor/venobox/venobox.min.js"></script>
-  <script src="<?php echo base_url();?>assets/template/vendor/aos/aos.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="<?php echo base_url();?>assets/template/js/main.js"></script>
-
-</body>
-
-</html>
+  
