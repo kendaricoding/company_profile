@@ -12,19 +12,24 @@ class Home extends CI_Controller {
 
 	public function index()
 	{
+		// $this->load->view('depan/v_isi.php');
 		$data = array(
-						'title' => 'Halaman Home'  
+					 	'title' => 'Halaman Home' 
 					 );
 
-		$data['data_judul'] 	= $this->M_pages->get_data_judul()->row_array();
-		$data['data_deskripsi'] = $this->M_pages->get_data_deskripsi()->row_array();
+		$data['data_judul']		= $this->M_pages->get_judul_company()->row_array();
+		$data['data_deskripsi']	= $this->M_pages->get_deskripsi_company()->row_array();
 
 		// echo "<pre>";
 		// print_r($data);
+		// die;
 		// echo "</pre>";
+
+		$this->template->load('template','depan/v_isi', $data);
+
+		// var_dump($data);
 		// die;
 
-		$this->template->load('depan/template','depan/v_isi', $data);
 	}
 
 }

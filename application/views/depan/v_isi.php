@@ -1,4 +1,6 @@
-<main id="main">
+
+ <main id="main">
+
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
@@ -9,17 +11,20 @@
             <img src="<?php echo base_url(); ?>assets/template/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3>Voluptatem dignissimos provident quasi corporis</h3>
+            <h3>Katalog Kelas</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              " Barang siapa tidak mau merasakan pahitnya belajar, ia akan merasakan hinanya kebodohan sepanjang hidupnya"
+              <br>
+              --Imam Syafi'i rahimahullah--
             </p>
             <ul>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="icofont-check-circled"></i>Tersedia Kelas <b>GRATIS</b> dan berbayar</li>
+              <li><i class="icofont-check-circled"></i>Tersedia Kelas Offline di wilayah kota Kendari dan sekitarnya</li>
+              <li><i class="icofont-check-circled"></i>Di bimbing langsung oleh tenaga pengajar yang sudah berpengalaman di bidangnya dan sudah sering menangani proyek tentang pengembangan Aplikasi web dan mobile</li>
+              <li><i class="icofont-check-circled"></i>Bisa belajar di mana saja dan kapan saja dengan waktu yang fleksibel</li>
+              <li><i class="icofont-check-circled"></i>Berkesempatan untuk gabung dalam proyek yang di akusisi oleh kendari coding dan technoreative</li>
             </ul>
-            <a href="#" class="read-more">Read More <i class="icofont-long-arrow-right"></i></a>
+            <a href="#" class="read-more">Lihat Katalog Kelas<i class="icofont-long-arrow-right"></i></a>
           </div>
         </div>
 
@@ -33,23 +38,23 @@
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">232</span>
-            <p>Clients</p>
+            <span data-toggle="counter-up">28</span>
+            <p>Member Kelas</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">521</span>
-            <p>Projects</p>
+            <span data-toggle="counter-up">20</span>
+            <p>Materi Kelas</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">1,463</span>
-            <p>Hours Of Support</p>
+            <span data-toggle="counter-up">6</span>
+            <p>Team Pengajar</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">15</span>
-            <p>Hard Workers</p>
+            <p>Hubungi Kami</p>
           </div>
 
         </div>
@@ -62,8 +67,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Layanan Kami</h2>
+          <p>Adapun layanan kami adalah kelas <b>GRATIS</b> dan berbayar dimana kami mengajarkan segala hal terkait pemrograman web dan mobile, kami juga menyediakan channel Youtube untuk kelas gratis kami yang bisa kalian akses kapan saja dan dimana saja. Selain itu kami juga menerima jasa pembuatan dan pengembangan Aplikasi Web dan Mobile serta jasa IT lainnya yang bekerjasama langsung dengan perusahaan IT partner kami yaitu <b>technocreative.id</b></p>
         </div>
 
         <div class="row">
@@ -75,8 +80,8 @@
                 </svg>
                 <i class="bx bxl-dribbble"></i>
               </div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Kelas Online Gratis</a></h4>
+              <p>Seputar pemrograman web dan mobile untuk pemula</p>
             </div>
           </div>
 
@@ -88,8 +93,8 @@
                 </svg>
                 <i class="bx bx-file"></i>
               </div>
-              <h4><a href="">Sed Perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Kelas Online / Offline Berbayar</a></h4>
+              <p>Membahas mengenai cara merancang dan membuat aplikasi web dan mobile dengan studi kasus proyek tersedia dalam kelas online dan offline (tatap muka)</p>
             </div>
           </div>
 
@@ -101,8 +106,8 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Jasa Design Website dan Mobile</a></h4>
+              <p>Menerima jasa desain aplikasi web dan mobile untuk membantu dalam pengembangan aplikasi yang sementara dibuat</p>
             </div>
           </div>
 
@@ -114,8 +119,8 @@
                 </svg>
                 <i class="bx bx-layer"></i>
               </div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Jasa Pembuatan Website</a></h4>
+              <p>Menerima jasa pembuatan website untuk sekolah, perkantoran atau sejenisnya</p>
             </div>
           </div>
 
@@ -127,8 +132,8 @@
                 </svg>
                 <i class="bx bx-slideshow"></i>
               </div>
-              <h4><a href="">Dele Cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Jasa Pembuatan aplikasi berbasis web dan mobile</a></h4>
+              <p>Menerima jasa pembuatan aplikasi web dan mobile sesuai keinginan</p>
             </div>
           </div>
 
@@ -140,8 +145,8 @@
                 </svg>
                 <i class="bx bx-arch"></i>
               </div>
-              <h4><a href="">Divera Don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href="">Jasa IT Lainnya</a></h4>
+              <p>Menerima jasa pemasangan CCTV, Jaringan Network, Kerjasama perbaikan peralatan IT perkantoran seperti komputer - printer dan peralatan IT lainnya</p>
             </div>
           </div>
 
@@ -638,3 +643,4 @@
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
+
