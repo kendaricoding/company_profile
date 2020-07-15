@@ -1,4 +1,6 @@
+
  <main id="main">
+
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
@@ -642,4 +644,3 @@
 
   </main><!-- End #main -->
 
-  

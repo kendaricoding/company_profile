@@ -29,6 +29,7 @@ class Home extends CI_Controller {
 
 		// var_dump($data);
 		// die;
+
 	}
 
 }
